@@ -1,4 +1,4 @@
-### Hi there my name is Jan and I am a psychologist and data analyst in the areas of epidemiology and cardiology 👋
+### Hi there my name is Jan and I am a data analyst working with epidemiological data in the field of cardiology 👋
 
 **I use GitHub mainly to work on R packages and other things that need to be easily found online while I usually use GitLab for my data analysis projects.**
 
