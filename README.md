@@ -1,6 +1,6 @@
-### Hi there my name is Jan and I am a data analyst working with epidemiological data in the field of cardiology 👋
+### Hi my name is Jan and I am a data analyst working in epidemiological cardiology 👋
 
-**I use GitHub mainly to work on R packages and other things that need to be easily found online while I usually use GitLab for my data analysis projects.**
+**I use GitHub to work on R packages and other things that need to be easily found online.**
 
 ***ALL R PACKAGES ARE STILL UNDER CONSTRUCTION!***
 
@@ -11,4 +11,3 @@
 **You can contact me using LinkedIn:**
 <p align="left">
 <a href="https://www.linkedin.com/in/janbrederecke/" target="blank"> My LinkedIn Profile </a>
-
