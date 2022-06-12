@@ -1,4 +1,4 @@
-### Hi my name is Jan and I am a data analyst working in cardiovascular epidemiology 👋.
+### Hi my name is Jan and I am a data scientist working in cardiovascular epidemiology 👋.
 
 I use GitHub to work on R packages and other things that need to be easily found and distributed online.
 
